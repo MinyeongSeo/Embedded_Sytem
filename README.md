@@ -1,1 +1,1 @@
-# Imbedded_Sytem
+# Embedded_Sytem
